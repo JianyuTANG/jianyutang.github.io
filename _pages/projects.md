@@ -29,6 +29,7 @@ author_profile: true
 - **Wechat Game: SHREDD**
   - a WeChat game powered by Cocos
   - implemented in **TypeScripts**
+  - [[CODE](https://github.com/JianyuTANG/WeChatGame)\]
 - **Data Visualization of Douban(豆瓣) Movie Dataset**
   - a website showing visualized movie data, powered by **D3.js**
   - data modeling and interesting analasys using several graph theory algorithms including PRIM, Dijstra, Hungary, Floyd algorithm
