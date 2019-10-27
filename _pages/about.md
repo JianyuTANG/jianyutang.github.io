@@ -12,4 +12,4 @@ I'm currently an undergraduate student in School of Software, Tsinghua Universit
 
 I'm also studying for a second major in Economics in School of Economics and Management, Tsinghua University, starting from September 2018 and my focus is Microeconomics.
 
-Here is my [CV](cv.pdf).
+Here is my [CV](files/cv.pdf).
