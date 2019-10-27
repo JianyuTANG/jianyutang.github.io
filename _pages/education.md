@@ -5,8 +5,6 @@ permalink: /education/
 author_profile: true
 ---
 
-
-
 - **Tsinghua University**
 
   *B.Eng. in Software Engineering*  

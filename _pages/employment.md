@@ -5,8 +5,6 @@ permalink: /employment/
 author_profile: true
 ---
 
-
-
 - **Research Intern**
 
   *Machine Learning Group, National Engineering Lab for Big Data Software*

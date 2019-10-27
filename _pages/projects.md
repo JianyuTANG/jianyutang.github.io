@@ -5,8 +5,6 @@ permalink: /projects/
 author_profile: true
 ---
 
-
-
 ## Research Projects
 
 - **Weakly Supervised Learning: Methods and Applications**
