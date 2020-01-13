@@ -10,6 +10,7 @@ author_profile: true
 - **Weakly Supervised Learning: Methods and Applications**
   - Adviced by Prof. Mingsheng Long
   - Carried out research on transfer learning in classification and detection
+  - won First Prize of Student Research Training Program, Tsinghua University ([Award](/files/SRT.jpg), in Chinese)
 
 
 
