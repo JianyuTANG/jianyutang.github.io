@@ -22,6 +22,7 @@ author_profile: true
   
   - implement part of the TCP/IP protocol stack and UDP socket on XV6(an open source OS developed by MIT)
   - implemented by C and a little assembly language
+  - [[**CODE**]( https://github.com/JianyuTANG/XV6-networking )]
   
 - **C to LLVM compiler**
   
@@ -29,6 +30,7 @@ author_profile: true
   
   - supports some basic C99 grammer and generates LLVM intermediate representation
   - implemented by Python, with Antlr4 used
+  - [[**CODE**](  https://github.com/JianyuTANG/c2llvmCompiler  )]
   
 - **WeChat MiniProgram: Siyuanren(思源人)**
   
@@ -44,16 +46,19 @@ author_profile: true
   
   - an FTP server on Linux and a GUI client on Windows
   - proficiency in **C**, **Python**, **Linux**, **Process**, **Network**, **RFC**
+  - \[[**CODE**]( https://github.com/JianyuTANG/ftp-service )\]
   
 - **Deep Learning Image Processing Service**
+  
   - a website for users to process images, powered by **Tensorflow** and **OpenCV**
   - support features as **face recognition**, **object detection** and **style transfering**
-  - \[[CODE](https://github.com/JianyuTANG/ImageProcessingWebsite)\]
+  - \[[**CODE**](https://github.com/JianyuTANG/ImageProcessingWebsite)\]
   
 - **Wechat Game: SHREDD**
+  
   - a WeChat game powered by Cocos
   - implemented in **TypeScripts**
-  - [[CODE](https://github.com/JianyuTANG/WeChatGame)\]
+  - [[**CODE**](https://github.com/JianyuTANG/WeChatGame)\]
   
 - **Data Visualization of Douban(豆瓣) Movie Dataset**
   
@@ -61,7 +66,7 @@ author_profile: true
   
   - a website showing visualized movie data, powered by **D3.js**
   - data modeling and interesting analasys using several graph theory algorithms including PRIM, Dijstra, Hungary, Floyd algorithm
-  - [[CODE](https://github.com/JianyuTANG/Graph-Theory)\] & \[[Website](https://jianyu.me/Graph-Theory/)(in Chinese)\]
+  - [[**CODE**](https://github.com/JianyuTANG/Graph-Theory)\] & \[[Website](https://jianyu.me/Graph-Theory/)(in Chinese)\]
 
 
 
