@@ -1,11 +1,14 @@
 # main links links
 main:
 
+  - title: "About"
+    url: /about/
+
   - title: "Education"
-    url: /education/    
+    url: /education/
 
   - title: "Employment"
-    url: /employment/    
+    url: /employment/
     
   - title: "Projects"
     url: /projects/

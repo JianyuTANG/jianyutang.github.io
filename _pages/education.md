@@ -10,5 +10,5 @@ author_profile: true
   *Tsinghua University*  
 
   - Aug 2017 - present
-  - GPA: 3.82
+  - GPA: 3.83
 
