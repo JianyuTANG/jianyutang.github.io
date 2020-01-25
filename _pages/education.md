@@ -5,10 +5,10 @@ permalink: /education/
 author_profile: true
 ---
 
-- **B.Eng. in Software Engineering**
+**B.Eng. in Software Engineering**
 
-  *Tsinghua University*  
+*School of Software, Tsinghua University*  
 
-  - Aug 2017 - present
-  - GPA: 3.83
+- *Aug 2017 - present*
+- *GPA: 3.83*
 
